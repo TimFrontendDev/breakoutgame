@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../Экзамен/Node"
+		},
+		{
+			"path": "image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Node"
+	}
+}
